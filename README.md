@@ -41,7 +41,6 @@ A powerful Leetcode extension that automatically pushes successful solutions to 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanishkValechha&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkValechha&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
 
